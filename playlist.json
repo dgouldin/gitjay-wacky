@@ -1,0 +1,358 @@
+{
+    "playlist": {
+        "track": [
+            {
+                "info": "http://www.rdio.com/artist/Death_Cab_for_Cutie/album/Transatlanticism/", 
+                "album": "Transatlanticism", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t492882"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDdY1xM"
+                ], 
+                "title": "Passenger Seat", 
+                "duration": 221, 
+                "image": "http://cdn3.rd.io/album/0/6/9/0000000000009960/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Death_Cab_for_Cutie/album/Transatlanticism/track/Passenger_Seat/"
+                ], 
+                "creator": "Death Cab for Cutie", 
+                "trackNum": 8
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Radiohead/album/The_Best_Of/", 
+                "album": "The Best Of", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t2351010"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDd8jeM"
+                ], 
+                "title": "Paranoid Android", 
+                "duration": 387, 
+                "image": "http://cdn3.rd.io/album/7/e/a/000000000002fae7/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Radiohead/album/The_Best_Of/track/Paranoid_Android/"
+                ], 
+                "creator": "Radiohead", 
+                "trackNum": 2
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Nas/album/Illmatic/", 
+                "album": "Illmatic", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t2913221"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDdzIYQ"
+                ], 
+                "title": "The Genesis", 
+                "duration": 105, 
+                "image": "http://cdn3.rd.io/album/4/5/8/000000000003a854/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Nas/album/Illmatic/track/The_Genesis/"
+                ], 
+                "creator": "Nas", 
+                "trackNum": 1
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Weezer/album/Weezer/", 
+                "album": "Weezer", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t2714868"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDd2PrU"
+                ], 
+                "title": "Say It Ain't So", 
+                "duration": 258, 
+                "image": "http://cdn3.rd.io/album/f/7/c/0000000000036c7f/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Weezer/album/Weezer/track/Say_It_Ain%27t_So/"
+                ], 
+                "creator": "Weezer", 
+                "trackNum": 7
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Nas/album/Illmatic/", 
+                "album": "Illmatic", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t2913263"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDdzIa4"
+                ], 
+                "title": "N.Y. State Of Mind", 
+                "duration": 292, 
+                "image": "http://cdn3.rd.io/album/4/5/8/000000000003a854/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Nas/album/Illmatic/track/N.Y._State_Of_Mind/"
+                ], 
+                "creator": "Nas", 
+                "trackNum": 2
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Daft_Punk/album/TRON_Legacy/", 
+                "album": "TRON: Legacy", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t7116098"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDczxwM"
+                ], 
+                "title": "Recognizer", 
+                "duration": 157, 
+                "image": "http://cdn3.rd.io/album/6/f/1/00000000000911f6/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Daft_Punk/album/TRON_Legacy/track/Recognizer/"
+                ], 
+                "creator": "Daft Punk", 
+                "trackNum": 4
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Grouplove/album/Never_Trust_A_Happy_Song/", 
+                "album": "Never Trust A Happy Song", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t11087514"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDf2fNs"
+                ], 
+                "title": "Tongue Tied", 
+                "duration": 218, 
+                "image": "http://cdn3.rd.io/album/0/0/1/00000000000e8100/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Grouplove/album/Never_Trust_A_Happy_Song/track/Tongue_Tied/"
+                ], 
+                "creator": "Grouplove", 
+                "trackNum": 2
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/M83/album/Hurry_Up_We%27re_Dreaming/", 
+                "album": "Hurry Up We're Dreaming", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t11954609"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDfpO_A"
+                ], 
+                "title": "Midnight City", 
+                "duration": 244, 
+                "image": "http://cdn3.rd.io/album/6/b/3/00000000000fd3b6/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/M83/album/Hurry_Up_We%27re_Dreaming/track/Midnight_City/"
+                ], 
+                "creator": "M83", 
+                "trackNum": 2
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/St._Vincent/album/Strange_Mercy/", 
+                "album": "Strange Mercy", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t11293241"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDfzAHg"
+                ], 
+                "title": "Northern Lights", 
+                "duration": 213, 
+                "image": "http://cdn3.rd.io/album/e/b/f/00000000000ecfbe/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/St._Vincent/album/Strange_Mercy/track/Northern_Lights/"
+                ], 
+                "creator": "St. Vincent", 
+                "trackNum": 5
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Karen_O_And_The_Kids/album/Where_the_Wild_Things_Are_Motion_Picture_Soundtrack_Original_Songs_by_Karen_O_and_The_Kids/", 
+                "album": "Where the Wild Things Are Motion Picture Soundtrack: Original Songs by Karen O and The Kids", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t2817847"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDd1rXY"
+                ], 
+                "title": "All Is Love", 
+                "duration": 169, 
+                "image": "http://cdn3.rd.io/album/3/4/b/0000000000038b43/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Karen_O_And_The_Kids/album/Where_the_Wild_Things_Are_Motion_Picture_Soundtrack_Original_Songs_by_Karen_O_and_The_Kids/track/All_Is_Love/"
+                ], 
+                "creator": "Karen O And The Kids", 
+                "trackNum": 2
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Karen_O_And_The_Kids/album/Where_the_Wild_Things_Are_Motion_Picture_Soundtrack_Original_Songs_by_Karen_O_and_The_Kids/", 
+                "album": "Where the Wild Things Are Motion Picture Soundtrack: Original Songs by Karen O and The Kids", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t2818526"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDd0U58"
+                ], 
+                "title": "Sailing Home", 
+                "duration": 62, 
+                "image": "http://cdn3.rd.io/album/3/4/b/0000000000038b43/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Karen_O_And_The_Kids/album/Where_the_Wild_Things_Are_Motion_Picture_Soundtrack_Original_Songs_by_Karen_O_and_The_Kids/track/Sailing_Home/"
+                ], 
+                "creator": "Karen O And The Kids", 
+                "trackNum": 14
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/M83/album/Hurry_Up_We%27re_Dreaming/", 
+                "album": "Hurry Up We're Dreaming", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t11955144"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDfpOYk"
+                ], 
+                "title": "This Bright Flash", 
+                "duration": 144, 
+                "image": "http://cdn3.rd.io/album/6/b/3/00000000000fd3b6/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/M83/album/Hurry_Up_We%27re_Dreaming/track/This_Bright_Flash/"
+                ], 
+                "creator": "M83", 
+                "trackNum": 9
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/David_Bowie/album/The_Rise_And_Fall_Of_Ziggy_Stardust_And_The_Spiders_From_Mars/", 
+                "album": "The Rise And Fall Of Ziggy Stardust And The Spiders From Mars", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t2299040"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDd8RuE"
+                ], 
+                "title": "Five Years", 
+                "duration": 282, 
+                "image": "http://cdn3.rd.io/album/1/6/9/000000000002e961/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/David_Bowie/album/The_Rise_And_Fall_Of_Ziggy_Stardust_And_The_Spiders_From_Mars/track/Five_Years/"
+                ], 
+                "creator": "David Bowie", 
+                "trackNum": 1
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Daft_Punk/album/TRON_Legacy/", 
+                "album": "TRON: Legacy", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t7116098"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDczxwM"
+                ], 
+                "title": "Recognizer", 
+                "duration": 157, 
+                "image": "http://cdn3.rd.io/album/6/f/1/00000000000911f6/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Daft_Punk/album/TRON_Legacy/track/Recognizer/"
+                ], 
+                "creator": "Daft Punk", 
+                "trackNum": 4
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Daft_Punk/album/TRON_Legacy/", 
+                "album": "TRON: Legacy", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t7116098"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDczxwM"
+                ], 
+                "title": "Recognizer", 
+                "duration": 157, 
+                "image": "http://cdn3.rd.io/album/6/f/1/00000000000911f6/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Daft_Punk/album/TRON_Legacy/track/Recognizer/"
+                ], 
+                "creator": "Daft Punk", 
+                "trackNum": 4
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/Daft_Punk/album/TRON_Legacy/", 
+                "album": "TRON: Legacy", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t7116098"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDczxwM"
+                ], 
+                "title": "Recognizer", 
+                "duration": 157, 
+                "image": "http://cdn3.rd.io/album/6/f/1/00000000000911f6/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/Daft_Punk/album/TRON_Legacy/track/Recognizer/"
+                ], 
+                "creator": "Daft Punk", 
+                "trackNum": 4
+            }, 
+            {
+                "info": "http://www.rdio.com/artist/M83/album/Hurry_Up_We%27re_Dreaming/", 
+                "album": "Hurry Up We're Dreaming", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t11955144"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDfpOYk"
+                ], 
+                "title": "This Bright Flash", 
+                "duration": 144, 
+                "image": "http://cdn3.rd.io/album/6/b/3/00000000000fd3b6/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/M83/album/Hurry_Up_We%27re_Dreaming/track/This_Bright_Flash/"
+                ], 
+                "creator": "M83", 
+                "trackNum": 9
+            }
+        ], 
+        "identifier": "http://www.rdio.com/people/dgouldin/playlists/566984/Wacky/", 
+        "meta": [
+            {
+                "http://rdio.gitjay.com/playlist/id/": "p566984"
+            }
+        ], 
+        "location": "http://rd.io/x/QVGOBDNX9Ik", 
+        "title": "Wacky", 
+        "date": "2012-02-13T04:38:55-00:00", 
+        "image": "http://m.rdio.com/_is/?aid=39264,190817,232259,195303,950528,239700,594422,970686,224383&w=200&h=200", 
+        "creator": "David Gouldin", 
+        "annotation": "GO NUTS!"
+    }
+}
