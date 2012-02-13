@@ -2,9 +2,25 @@
     "playlist": {
         "track": [
             {
-                "creator": "The Postal Service",
-                "title": "Such Great Heights"
-            },
+                "info": "http://www.rdio.com/artist/The_Postal_Service/album/Give_Up/", 
+                "album": "Give Up", 
+                "meta": [
+                    {
+                        "http://rdio.gitjay.com/track/id/": "t1190762"
+                    }
+                ], 
+                "location": [
+                    "http://rd.io/e/QVGOBDdNeSs"
+                ], 
+                "title": "Such Great Heights", 
+                "duration": 266, 
+                "image": "http://cdn3.rd.io/album/1/b/a/0000000000017ab1/square-200.jpg", 
+                "identifier": [
+                    "http://www.rdio.com/artist/The_Postal_Service/album/Give_Up/track/Such_Great_Heights/"
+                ], 
+                "creator": "The Postal Service", 
+                "trackNum": 2
+            }, 
             {
                 "info": "http://www.rdio.com/artist/Death_Cab_for_Cutie/album/Transatlanticism/", 
                 "album": "Transatlanticism", 
@@ -354,8 +370,8 @@
         ], 
         "location": "http://rd.io/x/QVGOBDNX9Ik", 
         "title": "Wacky", 
-        "date": "2012-02-13T04:38:55-00:00", 
-        "image": "http://m.rdio.com/_is/?aid=39264,190817,232259,195303,950528,239700,594422,970686,224383&w=200&h=200", 
+        "date": "2012-02-13T08:16:12-00:00", 
+        "image": "http://m.rdio.com/_is/?aid=39264,190817,232259,195303,950528,96945,239700,594422,224383&w=200&h=200", 
         "creator": "David Gouldin", 
         "annotation": "GO NUTS!"
     }
